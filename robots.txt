@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: 
+Sitemap: https://grades.carente.eu.org/sitemap.xml
