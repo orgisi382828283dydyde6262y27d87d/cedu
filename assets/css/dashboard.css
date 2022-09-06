@@ -198,4 +198,5 @@ color {
 
 .body.pg-loaded > .main_view {
   display: initial;
+  overflow: auto;
 }/*# sourceMappingURL=dashboard.css.map */
