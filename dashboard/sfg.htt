@@ -1,0 +1,37 @@
+<!--<p><a href="#!">Main</a></p>
+<a href="#!register">Sign Up</a>
+<a href="#!profile">Profile</a>
+<a href="#!login">Sign In</a>
+<div class="left-bar-item">
+            <div class="left-bar-item_icn">
+                <img src="/assets/images/home.svg"/>
+            </div>
+            <div class="left-bar-item_text">
+                <a href="#!">Home</a>
+            </div>
+        </div>
+        <div class="left-bar-item">
+            <div class="left-bar-item_icn">
+                <img src="/assets/images/register.svg"/>
+            </div>
+            <div class="left-bar-item_text">
+                <a href="#!register">Register</a>
+            </div>
+        </div>
+        <div class="left-bar-item">
+            <div class="left-bar-item_icn">
+                <img src="/assets/images/login.svg"/>
+            </div>
+            <div class="left-bar-item_text">
+                <a href="#!login">Login</a>
+            </div>
+        </div>
+        <div class="left-bar-item">
+            <div class="left-bar-item_icn">
+                <img src="/assets/images/profile.svg"/>
+            </div>
+            <div class="left-bar-item_text">
+                <a href="#!profile">Profile</a>
+            </div>
+        </div>
+-->
